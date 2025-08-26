@@ -1,0 +1,7 @@
+[theme]
+base = "light"
+primaryColor = "#0B6FA4"                # clinical / trustworthy blue
+backgroundColor = "#F6F9FB"             # very light blue-gray for a clean medical look
+secondaryBackgroundColor = "#EAF3F8"    # slightly tinted card/panel background
+textColor = "#0B2433"                   # dark slate for high contrast readable text
+font = "sans serif"                     # clean, modern
